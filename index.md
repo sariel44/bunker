@@ -1,4 +1,4 @@
-<img src="{{site.url}}/0.jpg" style="display: block; margin: auto;" />
+<img src="0.jpg" style="display: block; margin: auto;" />
 
 # Welcome
 
