@@ -5,6 +5,7 @@ Welcome visitor :) You can take up contact with me if you want. You get reward f
 ## Contact
 
 sariel44@protonmail.com
+wickr:sariel44
 
 ## Links
 
