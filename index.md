@@ -2,7 +2,8 @@
 
 # Welcome
 
-Welcome visitor :) You can take up contact with me if you want. You get reward for interesting information ^_^
+Welcome visitor :) You can take up contact with me if you want. You get reward for interesting information ;)
+I also like to network btw, so don't hesitate to follow me on the twitter (or deviant art). Direct contact goes through wickr.
 
 ## Contact
 
