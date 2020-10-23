@@ -11,7 +11,8 @@ Just some guy or girl like you (not going to tell which I am btw). I abhor corru
 
 I am also a data engineer, a good one, however I don't like what happens with the data at my work. But somebody needs to do it and then it is better someone with respect for privacy and security. 
 
-I am bit excentric. I like drawing, especially hentai. Oh well. 
+I am bit excentric. I like drawing, especially hentai. Oh well, I say hello to the fellow /d/egenerate, as you can see I am a man of culture. 
+
 ## Stuff I programmed
 
 I did more, but not on this account ^_^
@@ -25,7 +26,7 @@ Matrix like display program, just for fun and giggles. [https://github.com/sarie
 
 ## Foundations I like
 
-If you want to do a good deed. 
+If you want to do a good deed, shower them with money. They accept bitcoins ^_^ 
 
 https://www.zoekhonden.com/
 
