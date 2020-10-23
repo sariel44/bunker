@@ -7,10 +7,11 @@ I also like to network btw, so don't hesitate to follow me on the twitter (or de
 
 ## About myself
 
-Just some guy or girl like you (not going to tell which I am btw). I abhor extermism and radicalism. I like to connect people to each other. I have a big network, so don't hesitate to give it a shot, perhaps I can help you. 
+Just some guy or girl like you (not going to tell which I am btw). I abhor corruption, extermism and radicalism. I like to connect people to each other if I know they are allright. I have a big network, so don't hesitate to give it a shot, perhaps I can help you. 
 
 I am also a data engineer, a good one, however I don't like what happens with the data at my work. But somebody needs to do it and then it is better someone with respect for privacy and security. 
 
+I am bit excentric. I like drawing, especially hentai. Oh well. 
 ## Stuff I programmed
 
 I did more, but not on this account ^_^
