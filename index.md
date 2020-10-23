@@ -5,16 +5,22 @@
 Welcome visitor :) You can take up contact with me if you want. You get reward for interesting information ;)
 I also like to network btw, so don't hesitate to follow me on the twitter (or deviant art). Direct contact goes through wickr.
 
+## About myself
+
+Just some guy or girl like you (not going to tell which I am btw). I abhor extermism and radicalism. I like to connect people to each other. I have a big network, so don't hesitate to give it a shot, perhaps I can help you. 
+
+I am also a data engineer, a good one, however I don't like what happens with the data at my work. But somebody needs to do it and then it is better someone with respect for privacy and security. 
+
 ## Stuff I programmed
 
 I did more, but not on this account ^_^
 
-Simple document database on top of git and git-secret: https://github.com/sariel44/database
+Simple document database on top of git and git-secret: [https://github.com/sariel44/database]
 It also contains a simple task system. Got a pure CLI interface, I like that. 
 
 Nice feature is that I can give others access to the information contained through their GPG key. 
 
-Matrix like display program, just for fun and giggles. https://github.com/sariel44/matrix-gadget
+Matrix like display program, just for fun and giggles. [https://github.com/sariel44/matrix-gadget]
 
 ## Foundations I like
 
@@ -32,7 +38,7 @@ wickr:sariel44
 
 ## Links
 
-* https://www.redbubble.com/people/Sariels-bunker/shop
-* https://twitter.com/sariel44
-* https://github.com/sariel44/
-* https://www.deviantart.com/sariel444
+* [https://www.redbubble.com/people/Sariels-bunker/shop]
+* [https://twitter.com/sariel44]
+* [https://github.com/sariel44/]
+* [https://www.deviantart.com/sariel444]
