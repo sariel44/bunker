@@ -17,18 +17,18 @@ I am bit excentric. I like drawing, especially hentai. Oh well, I say hello to t
 
 I did more, but not on this account ^_^
 
-Simple document database on top of git and git-secret: [https://github.com/sariel44/database]
+Simple document database on top of git and git-secret: [database|https://github.com/sariel44/database]
 It also contains a simple task system. Got a pure CLI interface, I like that. 
 
 Nice feature is that I can give others access to the information contained through their GPG key. 
 
-Matrix like display program, just for fun and giggles. [https://github.com/sariel44/matrix-gadget]
+Matrix like display program, just for fun and giggles. [matrix-gadget|https://github.com/sariel44/matrix-gadget]
 
 ## Foundations I like
 
 If you want to do a good deed, shower them with money. They accept bitcoins ^_^ 
 
-https://www.zoekhonden.com/
+[zoekhonden|https://www.zoekhonden.com/]
 
 They train and use dogs to find people that are lost. Not a fun job, but it is neccesary. Lots of veterans among their ranks. 
 
@@ -40,7 +40,7 @@ wickr:sariel44
 
 ## Links
 
-* [https://www.redbubble.com/people/Sariels-bunker/shop]
-* [https://twitter.com/sariel44]
-* [https://github.com/sariel44/]
-* [https://www.deviantart.com/sariel444]
+* [shop|https://www.redbubble.com/people/Sariels-bunker/shop]
+* [twitter|https://twitter.com/sariel44]
+* [github|https://github.com/sariel44/]
+* [deviantart|https://www.deviantart.com/sariel444]
