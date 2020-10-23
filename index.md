@@ -13,7 +13,9 @@ I am also a data engineer, a good one, however I don't like what happens with th
 
 I am bit excentric. I like drawing, especially hentai. Oh well, I say hello to the fellow /d/egenerate, as you can see I am a man of culture. 
 
-## Stuff I programmed
+I am strictly monogamous, which is too bad. I like female the best, but a nice femboy is fine too, eh. I can only look and not touch though, unless my significant other says so ^_^
+
+## Program work
 
 I did more, but not on this account ^_^
 
@@ -35,8 +37,8 @@ They train and use dogs to find people that are lost. Not a fun job, but it is n
 
 ## Contact
 
-sariel44@protonmail.com
-wickr:sariel44
+* sariel44@protonmail.com
+* wickr:sariel44
 
 ## Links
 
